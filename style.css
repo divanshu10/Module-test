@@ -1,0 +1,14 @@
+body {
+    background: url('images.jpg');
+}
+#form-registration {
+    height: auto;
+    width: 650px;
+    background-color: rgb(148, 141, 143);
+    padding: 8px;
+    margin: 30px auto;
+    border: 2px solid rgb(129, 125, 125);
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 20px;
+
+}
